@@ -1,1 +1,1 @@
-# mealmaker
+A codecademy Javascript Project.
